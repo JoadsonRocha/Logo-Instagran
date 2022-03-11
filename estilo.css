@@ -5,15 +5,15 @@ body {
     display: flex;
     justify-content: center;
     align-self: center;
-    margin-top: 20%;
+    margin-top: 10%;
 }
 section {
     width: 20rem;
     height: 20rem;
     background: radial-gradient(circle at 33% 100%,
     #fed373 4%,
-    #f15245 4%,
-    #d92e7f 30%,
+    #f15245 30%,
+    #d92e7f 62%,
     #9b36b7,
     #515ecf);
     border-radius: 30%;
